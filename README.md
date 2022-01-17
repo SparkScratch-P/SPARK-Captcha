@@ -96,8 +96,31 @@
  - Now, come back to this repository and download the code from [Github Coadload](https://codeload.github.com/SparkScratch-P/SPARK-Captcha/zip/refs/heads/main).
  - Open the directory , `./c` and move all contents of it to your directory of same name, including `./c/assets`, but not `./c/h`. 
  - Now, in `./c/h/`, upload your code, with `index.html` as your main display page.
- - One more thing you can do to make it full-proof ; make the HTML page referral sensitive, like , the page will load only when it is opened from `https//:mydomain.com/c/h`, else it would return to `./c/` for the CATPCHA. *If it is possible with HTML< developers are welcome to fork, and add! We would be thankful and glad to add the contribution.`
+ - One more thing you can do to make it full-proof ; make the HTML page referral sensitive, like , the page will load only when it is opened from `https//:mydomain.com/c/h`, else it would return to `./c/` for the CATPCHA. *If it is possible with HTML< developers are welcome to fork, and add! We would be thankful and glad to add the contribution.`*
 
 ## License:
+
+
+MIT License
+
+Copyright (c) 2022 SparkScratch_P
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
