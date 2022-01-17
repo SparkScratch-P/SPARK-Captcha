@@ -8,10 +8,7 @@
  This CAPTCHA has been equipped with moden and updated Anti-AI Configurations. It is Free, Open-source and easy to use. You can use it without any registration and authoristion. It serves free in your site; and protects your resources!
  
 <style>
- 
- body {
-  background: #e0e5ec;
-}
+
  .frame {
   width: 90%;
   margin: 40px auto;
