@@ -73,7 +73,7 @@
  </style>
  
  <div class="frame">
- <button class="custom-btn btn-14">Try Out CAPTCHA</button>
+ <button class="custom-btn btn-14">Try It Out</button>
  </div>
  
 ## Features:
