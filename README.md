@@ -92,7 +92,10 @@
  
  Remember, you just have to follow the directory system as we say. Follow the given steps ahead:
  
- - The referral page directory, which will lead to the protected content should be introduced with the following sub directory configuration: `./c/h/index.html`
+ - The referral page directory, which will lead to the protected content should be introduced with the following sub directory configuration: `./c/h/index.html`.
+ - Now, come back to this repository and download the code from [Github Coadload](https://codeload.github.com/SparkScratch-P/SPARK-Captcha/zip/refs/heads/main).
+ - Open the directory , `./c` and move all contents of it to your directory of same name, including `./c/assets`, but not `./c/h`. 
+ - Now, 
 
 ## License:
 
