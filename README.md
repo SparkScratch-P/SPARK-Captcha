@@ -79,7 +79,7 @@
  <button class="custom-btn btn-14">Read More</button>
  </div>
  
- ## Features:
+## Features:
  
  - SPARK Captcha has modern Anti-AI features to protect data.
  - It offers Audio captcha for the visually Impaired.
