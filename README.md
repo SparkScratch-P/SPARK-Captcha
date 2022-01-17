@@ -15,4 +15,4 @@
  - Audio tests 10 dictation numbers one by one.
  - Audio inputs are to be extered, each followed by a 'Submit' tick, or Enter key, which is difficult for AI.
  - Every attempt to pass it has to recognise 2 numbers each.
- - Developers need not touch the code of the Captcha to enable it on their sites!
+ - Developers need not touch the code of the Captcha to enable it on their sites! (Code Free Implementation)
