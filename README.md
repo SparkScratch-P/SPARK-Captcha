@@ -6,4 +6,4 @@
 
 A SPARK based Completely Automated Public Turing test to tell Computers and Humans Apart(CAPTCHA) !
 
- This CAPTCHA has been equipped with moden and updaed AAnti-AI Configurations. It is Free, Open-source and easy to use. 
+ This CAPTCHA has been equipped with moden and updated Anti-AI Configurations. It is Free, Open-source and easy to use. 
