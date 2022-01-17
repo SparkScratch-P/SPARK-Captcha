@@ -88,7 +88,11 @@
 
 ## Developers:
 
- - 
+ It is very easy to implement the captcha in your site!
+ 
+ Remember, you just have to follow the directory system as we say. Follow the given steps ahead:
+ 
+ - The referral page directory, which will lead to the protected content should be introduced with the following sub directory configuration: `./c/h/index.html`
 
 ## License:
 
