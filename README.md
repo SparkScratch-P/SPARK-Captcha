@@ -95,7 +95,8 @@
  - The referral page directory, which will lead to the protected content should be introduced with the following sub directory configuration: `./c/h/index.html`.
  - Now, come back to this repository and download the code from [Github Coadload](https://codeload.github.com/SparkScratch-P/SPARK-Captcha/zip/refs/heads/main).
  - Open the directory , `./c` and move all contents of it to your directory of same name, including `./c/assets`, but not `./c/h`. 
- - Now, 
+ - Now, in `./c/h/`, upload your code, with `index.html` as your main display page.
+ - One more thing you can do to make it full-proof ; make the HTML page referral sensitive, like , the page will load only when it is opened from `https//:mydomain.com/c/h`, else it would return to `./c/` for the CATPCHA. *If it is possible with HTML< developers are welcome to fork, and add! We would be thankful and glad to add the contribution.`
 
 ## License:
 
