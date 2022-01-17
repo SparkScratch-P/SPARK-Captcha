@@ -9,4 +9,6 @@
  
  ## Features:
  
- - SPARK Capt
+ - SPARK Captcha has modern Anti-AI features to protect data
+ - It offers Audio captcha for the visually Impaired.
+ - Recognisable figures are away from standard ones
