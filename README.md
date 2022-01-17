@@ -1,9 +1,8 @@
 <img src="https://raw.githubusercontent.com/SparkScratch-P/SPARK-Captcha/776fe275e803e633a875a4ed34acd445f96cdf1f/sphere-smile-bioman-avatar-1-red-a72cf4bd00d82ecfb8a05d2dec09fdd2.svg" align="right" alt="no robot">
 
-## SPARK Capcha
+# SPARK Captcha
 
 ---
+## A SPARK based Completely Automated Public Turing test to tell Computers and Humans Apart (CAPTCHA) !
 
-A SPARK based Completely Automated Public Turing test to tell Computers and Humans Apart(CAPTCHA) !
-
- This CAPTCHA has been equipped with moden and updated Anti-AI Configurations. It is Free, Open-source and easy to use. 
+ This CAPTCHA has been equipped with moden and updated Anti-AI Configurations. It is Free, Open-source and easy to use. You can use it without any registration and authoristion. It serves free in your site; and protects your resources!
