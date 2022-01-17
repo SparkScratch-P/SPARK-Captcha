@@ -10,7 +10,7 @@
  <a href="https://github.com/SparkScratch-P/SPARK-Captcha">
  <img align="right" src="https://img.shields.io/github/stars/SparkScratch-P/SPARK-Captcha?style=social" alt="SPARKSheild-SparkScratch_P-SPARK-Captcha"><br><img align="right" src="https://img.shields.io/github/forks/SparkScratch-P/SPARK-Captcha?style=social"></a>
  
-<a href="https://github.com/SparkScratch-P/SPARK-Captcha"><img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=GitHub&logoColor=white" onmouseover="this.src='https://img.shields.io/badge/SparkScratch_P-SPARK_Cptcha-181717?style=for-the-badge&logo=GitHub&logoColor=white';" onmouseout="this.src='https://img.shields.io/badge/--181717?style=for-the-badge&logo=GitHub&logoColor=white';" /></a>
+<a href="https://github.com/SparkScratch-P/SPARK-Captcha"><img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=GitHub&logoColor=white" onmouseover="this.src='https://img.shields.io/badge/SparkScratch_P-SPARK_Captcha-181717?style=for-the-badge&logo=GitHub&logoColor=white';" onmouseout="this.src='https://img.shields.io/badge/--181717?style=for-the-badge&logo=GitHub&logoColor=white';" /></a>
 
  This CAPTCHA has been equipped with moden and updated Anti-AI Configurations. It is Free, Open-source and easy to use. You can use it without any registration and authoristion. It serves free in your site; and protects your resources!
  
