@@ -8,7 +8,7 @@
  This CAPTCHA has been equipped with moden and updated Anti-AI Configurations. It is Free, Open-source and easy to use. You can use it without any registration and authoristion. It serves free in your site; and protects your resources!
  
 
-<a class="buttons github" href="https://sparkscratch-p.github.io/SPARK-Captcha/c/">Try This Out</a>
+<buttons><a class="buttons github" href="https://sparkscratch-p.github.io/SPARK-Captcha/c/">Try This Out</a></buttons>
  
 ## Features:
  
