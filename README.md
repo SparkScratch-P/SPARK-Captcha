@@ -1,41 +1,9 @@
-<img src="https://raw.githubusercontent.com/SparkScratch-P/SPARK-Capcha/776fe275e803e633a875a4ed34acd445f96cdf1f/sphere-smile-bioman-avatar-1-red-a72cf4bd00d82ecfb8a05d2dec09fdd2.svg" align="right" alt="no robot">
+<img src="https://raw.githubusercontent.com/SparkScratch-P/SPARK-Captcha/776fe275e803e633a875a4ed34acd445f96cdf1f/sphere-smile-bioman-avatar-1-red-a72cf4bd00d82ecfb8a05d2dec09fdd2.svg" align="right" alt="no robot">
 
 ## SPARK Capcha
 
+---
+
 A SPARK based Completely Automated Public Turing test to tell Computers and Humans Apart(CAPTCHA) !
 
-You can use the [editor on GitHub](https://github.com/SparkScratch-P/SPARK-Capcha/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SparkScratch-P/SPARK-Capcha/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ This CAPTCHA has been equipped with moden and updaed AAnti-AI Configurations.
